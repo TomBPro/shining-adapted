@@ -1,0 +1,37 @@
+Son :
+multithreading pour gere le son ? ou simple lecture de sons ?
+musique : flac , bitcrusher ou reprogrammation
+pas : son des pas dans la neige ? panoramisation avec difference de temps ?
+appel du père ? quand il s'arrète
+appel de la mère ?
+bruit de le dameuse à neige ?
+
+Gameplay :
+permetre d'effacer ces pas en reculant et envoyant de la neige
+
+
+Pas dans la neige :
+avoir des tiles pour les croisements
+mieux gerer l'affichage pour que les pas ne précèdent pas les personnage
+differente tuilles en fonction de l'eneigement
+
+Father :
+sprits
+logique de poursuite (permetre de voir pas dans la lignée )
+
+Fin :
+sprits pour chasse neige
+animation chasse neige
+
+Neige :
+dessiner flocons par flocons ? pas possible de dessiner pixel par pixel sur tile map
+generer map toute eneigé et utiliser dither(alpha) ?
+generer differents niveau d'eneignement pour chaque tile (idelement 256 tuiles (8x8))
+generer map de flocons de neige
+afficher et translater map de flocons de neige
+voir inteaction entre map de flocons de neig et map toute eneigé
+
+
+La babyrinth :
+ajouter rectangle central d'origine de shinning
+maximimer la longueur
